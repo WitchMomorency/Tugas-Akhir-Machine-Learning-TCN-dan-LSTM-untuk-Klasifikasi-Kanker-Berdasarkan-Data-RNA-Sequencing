@@ -10,6 +10,12 @@ project-root/
 └── notebook.ipynb # Notebook utama
 ```
 ### Perihal Kode variant
-D1 dan D2 merupakan kode bagian pencarian parameter search nya
-Sedangkan V1 dan V2 merupakan running berdasarkan hasil pencarian dan seleksi dari D1 dan D2 nya
-Sedangan V1 SMOTE dan V2 SMOTE versi run dengan penetapan dengan semuanya menggunakan augmentasi smote di data latihnya
+### Perihal Kode Variant
+- **D1 dan D2**  
+  Merupakan kode bagian pencarian parameter search nya  
+
+- **V1 dan V2**  
+  Merupakan running berdasarkan hasil pencarian dan seleksi dari D1 dan D2 nya  
+
+- **V1 SMOTE dan V2 SMOTE**  
+  Versi run dengan penetapan dengan semuanya menggunakan augmentasi smote di data latihnya  
